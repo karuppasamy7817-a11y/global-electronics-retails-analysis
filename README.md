@@ -32,3 +32,5 @@ Power BI Dashboard (.pbix)
 Skills Demonstrated
 
 Data Cleaning | Data Modeling | DAX | Data Visualization | Business Intelligence
+![POWER BI DASHBOARD]
+(dashboard overview.png)
