@@ -13,15 +13,16 @@ Tools & Technologies
 
 Key Performance Indicators (KPIs)
 
-Metric| Result
-Total Sales| 41.91M
-Total Profit| 24.52M
-Total Orders| 20K
-Profit Margin| 58.52%
+|Metric| Result|
+|---|---:|
+|Total Sales| 55.76M|
+|Total Profit| 32.66M|
+|Total Orders| 26K|
+|Profit Margin| 58.58%|
 
 Dashboard Preview
 
-"Power BI Dashboard" (dashboard%20overview.png)
+![Power BI Dashboard](dashboard%20overview.png)
 
 Key Business Insights
 
